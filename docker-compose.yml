@@ -1,0 +1,4 @@
+services:
+  signal-router:
+    build: .
+    ports: ["8003:8003"]
